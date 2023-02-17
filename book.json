@@ -1,0 +1,28 @@
+{
+  "title": "Survive in Amsterdam",
+  "plugins": [
+    "anchors",
+    "disqus",
+    "edit-link",
+    "ga",
+    "github-buttons",
+    "include"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "survive-in-amsterdam"
+    },
+    "edit-link": {
+      "base": "https://github.com/tatevv/tatevv.github.io/tree/master",
+      "label": "Improve this page"
+      }
+    },
+    "github-buttons": {
+      "repo": "tatevv/tatevv.github.io",
+      "types": [
+        "star"
+      ],
+      "size": "medium"
+    }
+  }
+}
